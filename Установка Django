@@ -1,0 +1,22 @@
+C:\Users\User>pip install Django
+Collecting Django
+  Downloading Django-3.2.6-py3-none-any.whl (7.9 MB)
+     |████████████████████████████████| 7.9 MB 3.3 MB/s
+Collecting sqlparse>=0.2.2
+  Downloading sqlparse-0.4.1-py3-none-any.whl (42 kB)
+     |████████████████████████████████| 42 kB 96 kB/s
+Collecting pytz
+  Downloading pytz-2021.1-py2.py3-none-any.whl (510 kB)
+     |████████████████████████████████| 510 kB 3.3 MB/s
+Collecting asgiref<4,>=3.3.2
+  Downloading asgiref-3.4.1-py3-none-any.whl (25 kB)
+Installing collected packages: sqlparse, pytz, asgiref, Django
+  
+  WARNING: The script django-admin.exe is installed in 'C:\Users\User\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed Django-3.2.6 asgiref-3.4.1 pytz-2021.1 sqlparse-0.4.1
+
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the 'C:\Users\User\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip' command.
+
+C:\Users\User>-
